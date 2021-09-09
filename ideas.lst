@@ -2,6 +2,7 @@
 
 screenshots
 - annotating screenshots
+- put screenshots inseparate folder
 kubectl commands
 kubectl exec svc/
 
